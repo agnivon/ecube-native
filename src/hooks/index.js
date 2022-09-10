@@ -2,7 +2,7 @@ import _ from 'lodash';
 import { useSelector } from 'react-redux';
 
 export function useFindMovie(id) {
-    const movies = useSelector(state => state.movies.all);
+    const movies = useSelector(state => state.movies.latest);
     const movie = _.find(movies, { id: id });
     return movie;
 }
