@@ -13,7 +13,7 @@ export default function BookingsPage({ navigation }) {
     const bookings = useSelector(state => state.bookings);
 
     return (
-        <View style={[s.container]}>
+        <View style={[s.container, s.flex1]}>
             <Text h1 style={[s.textCenter, s.m2]}>
                 Bookings
             </Text>

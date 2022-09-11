@@ -15,7 +15,7 @@ export default function BookingCardList({ bookings }) {
     const DATA = bookings;
 
     return (
-        <View>
+        <View style={[s.flex1]}>
             <FlatList
                 data={DATA}
                 renderItem={renderItem}

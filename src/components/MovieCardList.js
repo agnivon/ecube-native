@@ -15,7 +15,7 @@ export default function MovieCardList({ movies }) {
     const DATA= movies;
 
     return (
-        <View>
+        <View style={[s.flex1]}>
             <FlatList
                 data={DATA}
                 renderItem={renderItem}

@@ -19,7 +19,7 @@ export default function LatestMoviesPage({ navigation }) {
     }
 
     return (
-        <View style={[s.container]}>
+        <View style={[s.container, s.flex1]}>
             <Text h1 style={[s.textCenter, s.m2]}>
                 Latest Movies
             </Text>

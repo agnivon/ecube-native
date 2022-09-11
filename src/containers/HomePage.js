@@ -35,13 +35,13 @@ export default function HomePage({ route, navigation }) {
                     } else if (route.name === 'Bookings') {
                         iconName = focused ? 'ticket' : 'ticket';
                     }
-                    return <Icon name={iconName} type="font-awesome"/>;
+                    return <Icon name={iconName} type="font-awesome" />;
                 },
                 tabBarActiveTintColor: 'tomato',
                 tabBarInactiveTintColor: 'gray',
                 headerShown: false
             })}>
-            <Tab.Screen name="LatestMovies" component={LatestMoviesPage} />
+            <Tab.Screen name="LatestMovies" component={LatestMoviesPage} options={{ title: 'Latest Movies' }} />
             <Tab.Screen name="Bookings" component={BookingsPage} />
         </Tab.Navigator>
     );
