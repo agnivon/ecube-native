@@ -1,0 +1,35 @@
+{
+  "files": {
+    "app.js": "/ecube-native/static/js/app.0c3e69d5.chunk.js",
+    "app.js.map": "/ecube-native/static/js/app.0c3e69d5.chunk.js.map",
+    "runtime~app.js": "/ecube-native/static/js/runtime~app.9052d8de.js",
+    "runtime~app.js.map": "/ecube-native/static/js/runtime~app.9052d8de.js.map",
+    "static/js/2.1d98b6df.chunk.js": "/ecube-native/static/js/2.1d98b6df.chunk.js",
+    "static/js/2.1d98b6df.chunk.js.map": "/ecube-native/static/js/2.1d98b6df.chunk.js.map",
+    "fonts/AntDesign.ttf": "/ecube-native/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/ecube-native/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/ecube-native/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/ecube-native/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/ecube-native/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/ecube-native/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Fontisto.ttf": "/ecube-native/./fonts/Fontisto.ttf",
+    "fonts/Foundation.ttf": "/ecube-native/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/ecube-native/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/ecube-native/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/ecube-native/./fonts/MaterialIcons.ttf",
+    "fonts/SimpleLineIcons.ttf": "/ecube-native/./fonts/SimpleLineIcons.ttf",
+    "index.html": "/ecube-native/index.html",
+    "manifest.json": "/ecube-native/manifest.json",
+    "serve.json": "/ecube-native/serve.json",
+    "static/js/2.1d98b6df.chunk.js.LICENSE.txt": "/ecube-native/static/js/2.1d98b6df.chunk.js.LICENSE.txt",
+    "static/media/bell.png": "/ecube-native/static/media/bell.cf04af27.png",
+    "static/media/heart.png": "/ecube-native/static/media/heart.23b5c2c0.png",
+    "static/media/rocket.png": "/ecube-native/static/media/rocket.d2f3bf41.png",
+    "static/media/star.png": "/ecube-native/static/media/star.69c71386.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.9052d8de.js",
+    "static/js/2.1d98b6df.chunk.js",
+    "static/js/app.0c3e69d5.chunk.js"
+  ]
+}
