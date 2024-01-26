@@ -1,5 +1,5 @@
-# Project 2: Build An Online Movie Ticket Booking Mobile Application Using React And React Native 
-Along with Web Application you must also build a Mobile Application using React and React Native. 
+# Building An Online Movie Ticket Booking Mobile Application Using React And React Native 
+Along with the Web Application we are also building a Mobile Application using React and React Native. 
 
 ### Goal: 
 The goal of this project is to build an online movie ticket booking mobile application which includes details of latest movies. 
